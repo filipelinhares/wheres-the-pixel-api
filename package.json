@@ -1,0 +1,22 @@
+{
+  "name": "wheres-the-pixel-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filipelinhares/wheres-the-pixel-api.git"
+  },
+  "author": "Filipe Linhares",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/filipelinhares/wheres-the-pixel-api/issues"
+  },
+  "homepage": "https://github.com/filipelinhares/wheres-the-pixel-api#readme",
+  "dependencies": {
+    "polka": "^0.5.2"
+  }
+}
